@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Raga Nikila</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600,700,800" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+  <body>
+
+    <!-- BEGIN NAVBAR -->
+    <div class="navbar">
+      <a href="#about">About</a>
+      <a href="#experience">Experience</a>
+      <a href="#education">Education</a>
+      <a href="#skills">Skills</a>
+      <a href="#contact">Contact</a>
+    </div>
+    <!-- END NAVBAR -->
+
+    <div class="container">
+
+      <!-- HEADER -->
+      <div class="jumbotron">
+        <div class="jumbotron-text">
+          <h1>Amrutha Pai</h1>
+          <p>Sr.UI Developer</p>
+        </div>
+        <div class="jumbotron-social">
+          <ul class="ul-social">
+            <li class="li-social-links">
+              <a class="social" href="https://linkedin.com/in/p-amrutha-a69a50144" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            </li>
+         </ul>
+        </div>
+        <div id="down-arrow">
+          <span><a href="#about"><i class="fa fa-chevron-down" aria-hidden="true"></i></a></span>
+        </div>
+      </div>
+      <!-- END HEADER -->
+
+
+
+      <!-- BEGIN ABOUT -->
+      <div class="row white box-shadow">
+        <div class="side-content"></div>
+        <div class="main-content">
+          <div class="content-header">
+            <a class="anchor" name="about"></a>
+            <h2>About</h2>
+          </div>
+          <div class="content-body">
+            <p>
+              With more than eight years of experience as a Sr.UI Developer, with outstanding problem-solving skills combined with the ability to develop an easy rapport with end clients and team, I am someone who can easily work with any team.
+              <br><br><br>
+              •  UI Developer with 8+ years of extensive experience in designing User Interface applications and professional & scalable web applications using HTML5/HTML, CSS/CSS3, JavaScript, AngularJS, React, node.js , jQuery, JSP, AJAX, JSON, XML, GIT and RESTful Webservices using W3C Standards.<br>
+              • Good knowledge of building  Responsive Web Design using Media Queries using MV*(MVC, MVP) Architecture frameworks on developing new web features using AngularJS, Backbone.js, React and Redux.<br>
+              • Experience in developing Single Page Application (SPA) architecture and client side MVC using AngularJS and on unidirectional flow application server side using node.js and React- Redux.<br>
+              • Extensive experience in implementing MEAN Stack (MongoDB, Express.js, AngularJS, node.js) with RESTful Webservices stands.<br>
+              • Good understanding of the Software Development Life Cycle (SDLC) and experience in requirements analysis, software design, development, testing, and deployment in CI/CD(Continuous Integration/Continuous development) and TDD(Test Driven Development) Environment over different browsers.
+              <br><br><br>
+             </p>
+            <p>In addition to my experience and personal qualities, I have a solid educational foundation and a passion for computer science and new technologies. Among my strengths, I am disciplined and hardworking with a demonstrated ability to balance the competing demands of multiple projects. Passionate about providing service excellence, new ideas and teamwork. I would like a work environment where I have growth opportunities and where my work will greatly add to the company's growth.</p>
+          </div>
+        </div>
+        <div class="side-content"></div>
+      </div>
+      <!-- END ABOUT -->
+
+      <!-- BEGIN EXPERIENCE -->
+      <div class="row">
+        <div class="side-content"></div>
+        <div class="main-content">
+          <div class="content-header">
+            <a class="anchor" name="experience"></a>
+            <h2>Experience</h2>
+          </div>
+
+          <!-- CARD #1 -->
+
+          <div class="content-body">
+            <div class="card">
+              <div class="card-header">
+                <h4> Fifth third bank,cincinnati ohio  <span class="job-title">Sr.UI Developer</span></h4>
+              </div>
+              <div class="card-content">
+                <p> Developing web pages by using HTML5, CSS3, JQuery, JavaScript and working knowledge of Backbone.js, node.js, Bootstrap.js, and AngularJS.Responsible for creating efficient design and developing User Interaction screens using HTML5, CSS, CSS3, JavaScript, jQuery, JSF, AJAX and JSON.Implemented various Validation Controls for form validation and implemented custom validation controls with JavaScript and jQuery.Used AngularJS as framework to create a Single Page Application (SPA) which can bind data to specific views and synchronize data with server.Used the node.js and Backbone.js MVC Frameworks in the development of the web applications.Used node.js as a proxy to interact with Restful services and also interacting with MongoDB NoSQL Database.
+                 </p>
+              </div>
+            </div>
+
+          <!-- CARD #2 -->
+
+            <div class="card">
+              <div class="card-header">
+                <h4>Paypal, San jose, CA <span class="job-title">Sr. UI Developer</span></h4>
+              </div>
+              <div class="card-content">
+                <p> Designed and implemented the whole web site using HTML5, XML, CSS3, Flash, PHP/MySQL and JavaScript leveraging the Bootstrap framework. Developed and improved application using MVC Framework AngularJS, Backbone JS and Bootstrap. 
+                </p>
+              </div>
+            </div>
+
+          <!-- CARD #3 -->
+
+            <div class="card">
+              <div class="card-header">
+                <h4>DSM Pharmaceutical, Greenville, NC <span class="job-title">Sr. UI Developer</span></h4>
+              </div>
+              <div class="card-content">
+                <p>Responsible for developing the presentation layer using JSP, HTML, XML, XSLT, CSS, AJAX, Custom Tags, Struts-Html tag library and Apache Tiles.Implemented user interface guidelines and standards throughout the development and maintenance of the website using JavaScript, JQuery, CSS, and HTML. Developed the administrative UI using Angular.js and Node.js.
+              </p>
+              </div>
+            </div>
+
+            <!-- CARD #4 -->
+
+          <div class="content-body">
+            <div class="card">
+              <div class="card-header">
+                <h4> Standard bank, Monroe OH, OR<span class="job-title">Sr. UI Developer</span></h4>
+              </div>
+              <div class="card-content">
+                <p>Developed presentation-tier JSP pages in HTML, Implemented jQuery Data Grid control, Validation control and other Widget controls.Worked on JavaScript framework (Backbone, node.js) to augment browser based applications with MVC capability.Knowledge on implementing directives and scope values using AngularJS for an existing webpage.  Developed the administrative UI using Angular.js and node.js. 
+                </p>
+              </div>
+            </div>
+
+            <!-- CARD #5 -->
+
+          <div class="content-body">
+            <div class="card">
+              <div class="card-header">
+                <h4> Braun Medical INC, Houston, TX<span class="job-title">Web/UI Developer</span></h4>
+              </div>
+              <div class="card-content">
+                <p>Responsible for Design and development of Web pages using HTML, CSS including Ajax controls and XML.Developed JSP's and HTML, CSS and a part of presentation layer using JavaScript and node.js.Developed the User Interface using Angular JS, HTML, CSS, JavaScript, JQuery and XML.
+                </p>
+              </div>
+            </div>
+
+            <!-- CARD #6 -->
+
+          <div class="content-body">
+            <div class="card">
+              <div class="card-header">
+                <h4>District of great chicago,IL<span class="job-title">UI Developer</span></h4>
+              </div>
+              <div class="card-content">
+                <p>Involved in Designing, Implementation, Maintenance and Testing of Databases and Web pages.Coding, styling, testing of reusable JavaScript, CSS, HTML widgets / libraries for complex UI controls.
+                </p>
+              </div>
+            </div>
+
+            <!-- CARD #7 -->
+
+          <div class="content-body">
+            <div class="card">
+              <div class="card-header">
+                <h4>Karmanya software solutions, INDIA <span class="job-title">UI Developer</span></h4>
+              </div>
+              <div class="card-content">
+                <p>Designed web pages using with HTML, CSS based on the W3C standards.Integrated the frontend JQuery UI with backend REST API.
+                </p>
+              </div>
+            </div>
+
+            <!-- CARD #8 -->
+
+      <!-- END EXPERIENCE -->
+
+      <!-- BEGIN EDUCATION -->
+      <div class="row white box-shadow">
+        <div class="side-content"></div>
+        <div class="main-content">
+          <div class="content-header">
+            <a class="anchor" name="education"></a>
+            <h2>Education</h2>
+          </div>
+          <div class="content-body">
+
+            <!-- EDUCATION 1 -->
+            <div class="card">
+              <div class="card-header">
+                <h4>Jawaharlal nehuru University <span class="job-title">2010</span></h4>
+              </div>
+              <div class="card-content">
+                <p>Bachelor's of Engineering in Computer Science</p>
+              </div>
+            </div>
+        </div>
+        </div>
+        <div class="side-content"></div>
+      </div>
+      <!-- END EDUCATION -->
+
+      <!-- BEGIN SKILLS -->
+      <div class="row white box-shadow">
+        <div class="side-content"></div>
+        <div class="main-content">
+          <div class="content-header">
+            <a class="anchor" name="skills"></a>
+            <h2>Skills</h2>
+          </div>
+          <div class="content-body">
+            <ul class="ul-skills">
+              <li class="li-skills">Javascript</li>
+              <li class="li-skills">HTML</li>
+              <li class="li-skills">CSS</li>
+              <li class="li-skills">AngularJS</li>
+              <li class="li-skills">Typescript</li>
+              <li class="li-skills">React JS</li>
+              <li class="li-skills">node.js</li>
+              <li class="li-skills">Bootstrap</li>
+              <li class="li-skills">jQuery</li>
+              <li class="li-skills">Agile</li>
+              <li class="li-skills">TDD</li>
+              <li class="li-skills">CI/CD</li>
+              <li class="li-skills">JIRA</li>
+              <li class="li-skills">Jenkin</li>
+              <li class="li-skills">Protactor</li>
+              <li class="li-skills">Karma</li>
+              <li class="li-skills">Selenium</li>
+              <li class="li-skills">MongoDB</li>
+              <li class="li-skills">GIT</li>
+              <li class="li-skills">Sublime</li>
+              <li class="li-skills">Webstorm</li>
+            </ul>
+          </div>
+        </div>
+        <div class="side-content"></div>
+      </div>
+      <!-- END SKILLS -->
+
+      <!-- BEGIN CONTACT -->
+
+      <div class="row blue">
+        <div class="side-content"></div>
+        <div class="main-content">
+          <div class="content-header">
+            <a class="anchor" name="contact"></a>
+            <h2 class="white-text">Contact Me</h2>
+          </div>
+          <div class="jumbotron-social">
+          <ul class="ul-social">
+            <li class="li-social-links">
+              <a class="social" href="https://linkedin.com/in/p-amrutha-a69a50144" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+        <div class="side-content"></div>
+     </div>
+
+      <!-- END CONTACT -->
+
+      <!-- BEGIN FOOTER -->
+      <div class="row">
+        <div class="side-content"></div>
+        <div class="main-content">
+          <div class="content-header">
+          </div>
+          <div class="content-body">
+            <p>&copy; Raga Nikila 2017</p>
+          </div>
+        </div>
+        <div class="side-content"></div>
+      </div>
+      <!-- END FOOTER -->
+
+      </div>
+  </body>
+</html>
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
